@@ -20,7 +20,8 @@ EUI-NEO/
 ├─ app/
 │  ├─ basic_demo.cpp
 │  ├─ calculator_demo.cpp
-│  └─ calculator_logic.h
+│  ├─ calculator_logic.h
+|  └─ calculator_demo.h
 ├─ docs/
 │  ├─ ui_dsl_analysis.md
 │  └─ gpui_full_redraw_optimization.md
